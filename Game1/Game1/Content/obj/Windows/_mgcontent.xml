@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/player.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/floor.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/wall.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/None.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/File.spritefont</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/machinegun.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/pistol.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/shotgun.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/button.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/eye.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/bullet.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/ghost.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/ladder.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/moving.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/force.png</File>
+    <File>C:/Users/matth/Google Drive/uni work/year 3/Game Behaviour/MonoGame/Game1/Game1/Content/player1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
